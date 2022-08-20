@@ -1,0 +1,13 @@
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\bin\Debug\ef-database-first-console.exe.config
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\bin\Debug\ef-database-first-console.exe
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\bin\Debug\ef-database-first-console.pdb
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\bin\Debug\EntityFramework.dll
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\bin\Debug\EntityFramework.xml
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\obj\Debug\ef-database-first-console.csproj.AssemblyReference.cache
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\obj\Debug\ef-database-first-console.csproj.SuggestedBindingRedirects.cache
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\obj\Debug\ef-database-first-console.csproj.CoreCompileInputs.cache
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\obj\Debug\ef-database-first-console.csproj.CopyComplete
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\obj\Debug\ef-database-first-console.exe
+C:\Users\vuyani.moyo\Documents\MyProjects\c-sharp\console\ef-database-first-console\ef-database-first-console\obj\Debug\ef-database-first-console.pdb
